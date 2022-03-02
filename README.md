@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Çağatay</h1>
-<h3 align="center">A passionate, eager to learn, self taught Developer</h3>
+<h3 align="center">A passionate, eager to learn, person who is trying to become a developer</h3>
 
 - 🌱 I’m currently learning **C#, .Net**
 
